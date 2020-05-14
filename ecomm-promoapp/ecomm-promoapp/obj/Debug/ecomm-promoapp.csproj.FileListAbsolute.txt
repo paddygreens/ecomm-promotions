@@ -1,2 +1,9 @@
 c:\users\cex\documents\visual studio 2012\Projects\ecomm-promoapp\ecomm-promoapp\bin\Debug\ecomm-promoapp.exe.config
 C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\ecomm-promoapp\bin\Debug\ecomm-promoapp.exe.config
+C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\ecomm-promoapp\bin\Debug\ecomm-promoapp.exe
+C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\ecomm-promoapp\bin\Debug\ecomm-promoapp.pdb
+C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\ecomm-promoapp\obj\Debug\ecomm-promoapp.csprojResolveAssemblyReference.cache
+C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\ecomm-promoapp\obj\Debug\ecomm_promoapp.Properties.Resources.resources
+C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\ecomm-promoapp\obj\Debug\ecomm-promoapp.csproj.GenerateResource.Cache
+C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\ecomm-promoapp\obj\Debug\ecomm-promoapp.exe
+C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\ecomm-promoapp\obj\Debug\ecomm-promoapp.pdb

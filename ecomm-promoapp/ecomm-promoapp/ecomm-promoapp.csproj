@@ -50,8 +50,13 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="ICheckoutService.cs" />
+    <Compile Include="IPromotions.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="PromoCodes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SkuDao.cs" />
+    <Compile Include="SkuData.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
