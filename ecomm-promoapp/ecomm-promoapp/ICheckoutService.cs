@@ -8,7 +8,7 @@ namespace ecomm_promoapp
 {
     public interface ICheckoutService
     {
-        void CheckOut(List<SkuDao> selectedSku);
+        int CheckOut(List<SkuDao> selectedSku);
     }
 
     public class CheckoutService
@@ -20,26 +20,15 @@ namespace ecomm_promoapp
             promotions = new Promotions();
         }
 
-        void CheckOut(List<SkuDao> selectedSku)
+        public int CheckOut(List<SkuDao> selectedSku)
         {
-
+            return GetTotalPrice(selectedSku);
         }
 
-        void CalculateTotal(List<SkuDao> selectedSku)
+        private int GetTotalPrice(List<SkuDao> selectedSku)
         {
-            var promo = promotions.GetActivePromotions();
-
-            var skuA = selectedSku.Where(a => a.SkuName == "A");
-            var skuB = selectedSku.Where(a => a.SkuName == "B");
-            var skuC = selectedSku.Where(a => a.SkuName == "C");
-            var skuD = selectedSku.Where(a => a.SkuName == "D");
-
-            int countsA = skuA.Count();
-            int countB = skuB.Count();
-            int countC = skuC.Count();
-            int countD = skuD.Count();
-
-
+            int total = promotions.ApplyPromotionsAndGetTotal(selectedSku);
+            return total;
         }
     }
 }

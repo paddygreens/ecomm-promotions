@@ -3,3 +3,5 @@ C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\UnitTestProject1\b
 C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
 C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\UnitTestProject1\bin\Debug\ecomm-promoapp.exe
+C:\Users\Cex\Documents\GitHub\ecomm-promotions\ecomm-promoapp\UnitTestProject1\bin\Debug\ecomm-promoapp.pdb
